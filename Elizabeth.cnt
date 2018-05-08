@@ -1,0 +1,37 @@
+:Base Elizabeth.hlp
+:Title Elizabeth Conversation Program Help
+1 Elizabeth Conversation Program
+2 Overview of the System=HelpOverview
+2 Starting Up, and the System Menus=HelpMenus
+2 The Script Editor=HelpEditor
+2 Illustrative Script and Conversation=HelpIllustrative
+2 Weizenbaum's Original DOCTOR Script=HelpWeizenbaum
+2 Self-Teach Exercises=HelpExercises
+1 Basic Script Commands
+2 Introduction to Script Commands=HelpScriptIntro
+2 Simple Message Selection Commands=HelpSimpleMessage
+2 The Input/Keyword/Output/Final Transformation Process=HelpTransformation
+2 Phrase Memorisation and Recall=HelpMemorisation
+2 Saving Text Files Dynamically=HelpSaving
+1 Pattern Matching and Recursion
+2 Pattern Matching=HelpMatching
+2 Recursion and Text Splitting=HelpRecursion1
+2 The Power of Recursion=HelpRecursion2
+2 Implementing Memory Arrays=HelpArrays
+1 Advanced Script Processing
+2 Implementing Grammatical Rules=HelpGrammar
+2 Dynamic Script Processing=HelpDynamic
+2 Control of Scripts using Command Index Codes=HelpIndexCodes
+2 Giving Direction to a Conversation=HelpDirection
+2 Defining and Using Conditional Commands=HelpConditions
+2 Implementing Propositional Logic=HelpPropositional
+2 Implementing a Turing Machine=HelpTuring
+1 Technical and Reference
+2 Capitalisation and Transformations=HelpCapitalisation
+2 Iteration and Cycling of Input/Output/Final Transformations=HelpIteration
+2 Technical Note on Pattern Matching=HelpTechnical
+2 Sequencing and Timing of Dynamic Commands=HelpSequencing
+2 Command Syntax Reference Guide=HelpSyntax
+2 Built-In String Functions=HelpFunctions
+2 Alphabets and Special Symbols=HelpSymbols
+2 System Files and Predefined Scripts=HelpFiles
